@@ -25,7 +25,7 @@
   <a href="https://linkedin.com/in/abhaykumawat01" target="_blank"> <!-- CHANGE THIS: paste your LinkedIn URL -->
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/abhaykumawat01/portfolio" target="_blank"> <!-- CHANGE THIS: paste your portfolio URL -->
+  <a href="https://abhaykumawat01.github.io/portfolio/" target="_blank"> <!-- CHANGE THIS: paste your portfolio URL -->
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="abhaykumawat512@gmail.com"> <!-- CHANGE THIS: paste your email -->
@@ -130,7 +130,7 @@
 <p align="center">
   I'm always open to interesting conversations, collaborations, and internship/job opportunities.
   <br/>
-  Reach out via <a href="https://linkedin.com/in/abhaykumawat01">LinkedIn</a> or check out my <a href="https://github.com/abhaykumawat01/portfolio">Portfolio</a>.
+  Reach out via <a href="https://linkedin.com/in/abhaykumawat01">LinkedIn</a> or check out my <a href="https://abhaykumawat01.github.io/portfolio/">Portfolio</a>.
   <!-- CHANGE THIS: replace both links -->
 </p>
 
