@@ -24,13 +24,13 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank"> <!-- CHANGE THIS: paste your LinkedIn URL -->
+  <a href="https://linkedin.com/in/abhaykumawat01" target="_blank"> <!-- CHANGE THIS: paste your LinkedIn URL -->
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL" target="_blank"> <!-- CHANGE THIS: paste your portfolio URL -->
+  <a href="[YOUR_PORTFOLIO_URL](https://github.com/abhaykumawat01/portfolio)" target="_blank"> <!-- CHANGE THIS: paste your portfolio URL -->
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com"> <!-- CHANGE THIS: paste your email -->
+  <a href="abhaykumawat512@gmail.com"> <!-- CHANGE THIS: paste your email -->
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -39,7 +39,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm currently studying **Computer Science / IT** <!-- CHANGE THIS: your college, branch, year e.g. "B.Tech CSE, XYZ College, 2026" -->
+- 🎓 I'm currently studying **B.Tech CSE, NIT Arunachal Pardesh, 2024** <!-- CHANGE THIS: your college, branch, year e.g. "B.Tech CSE, XYZ College, 2026" -->
 - 🌱 I'm currently strengthening my skills in **DSA, Full Stack Development, and Databases**
 - 💡 I love solving problems and building practical, real-world projects
 - ⚡ Fun fact: <!-- CHANGE THIS: add a fun fact about yourself, optional -->
@@ -89,7 +89,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h4>🔹 Project Name One</h4>
+      <h4>🔹 </h4>
       <p>One-line description of what this project does and the problem it solves.</p>
       <p>
         <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
@@ -114,14 +114,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhaykumawat01&show_icons=true&theme=default&hide_border=true" />
   <!-- CHANGE THIS: replace YOUR_USERNAME with your GitHub username -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaykumawat01&layout=compact&hide_border=true" />
   <!-- CHANGE THIS: replace YOUR_USERNAME with your GitHub username -->
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaykumawat01&hide_border=true" />
   <!-- CHANGE THIS: replace YOUR_USERNAME with your GitHub username -->
 </p>
 
@@ -132,11 +132,11 @@
 <p align="center">
   I'm always open to interesting conversations, collaborations, and internship/job opportunities.
   <br/>
-  Reach out via <a href="YOUR_LINKEDIN_URL">LinkedIn</a> or check out my <a href="YOUR_PORTFOLIO_URL">Portfolio</a>.
+  Reach out via <a href="https://linkedin.com/in/abhaykumawat01">LinkedIn</a> or check out my <a href="https://github.com/in/abhaykumawat01/portfolio">Portfolio</a>.
   <!-- CHANGE THIS: replace both links -->
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=abhaykumawat01&label=Profile%20Views&color=blueviolet&style=flat" />
   <!-- CHANGE THIS: replace YOUR_USERNAME with your GitHub username -->
 </p>
