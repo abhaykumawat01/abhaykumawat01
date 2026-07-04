@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 =====================================================================
   GITHUB PROFILE README TEMPLATE
@@ -27,7 +25,7 @@
   <a href="https://linkedin.com/in/abhaykumawat01" target="_blank"> <!-- CHANGE THIS: paste your LinkedIn URL -->
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[YOUR_PORTFOLIO_URL](https://github.com/abhaykumawat01/portfolio)" target="_blank"> <!-- CHANGE THIS: paste your portfolio URL -->
+  <a href="https://github.com/abhaykumawat01/portfolio" target="_blank"> <!-- CHANGE THIS: paste your portfolio URL -->
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="abhaykumawat512@gmail.com"> <!-- CHANGE THIS: paste your email -->
@@ -95,7 +93,7 @@
         <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
-      <a href="https://github.com/YOUR_USERNAME/project-one-repo">🔗 View Repo</a>
+      <a href="https://github.com/abhaykumawat01/project-one-repo">🔗 View Repo</a>
     </td>
     <td width="50%">
       <h4>🔹 Project Name Two</h4>
@@ -104,7 +102,7 @@
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
       </p>
-      <a href="https://github.com/YOUR_USERNAME/project-two-repo">🔗 View Repo</a>
+      <a href="https://github.com/abhaykumawat01/project-two-repo">🔗 View Repo</a>
     </td>
   </tr>
 </table>
@@ -132,7 +130,7 @@
 <p align="center">
   I'm always open to interesting conversations, collaborations, and internship/job opportunities.
   <br/>
-  Reach out via <a href="https://linkedin.com/in/abhaykumawat01">LinkedIn</a> or check out my <a href="https://github.com/in/abhaykumawat01/portfolio">Portfolio</a>.
+  Reach out via <a href="https://linkedin.com/in/abhaykumawat01">LinkedIn</a> or check out my <a href="https://github.com/abhaykumawat01/portfolio">Portfolio</a>.
   <!-- CHANGE THIS: replace both links -->
 </p>
 
